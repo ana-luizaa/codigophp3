@@ -1,5 +1,5 @@
 <?php
-// Programa que calcula a média aritmética simples entre 4 notas
+
 
 echo "Digite a nota 1: ";
 $nota1 = fgets(STDIN);
